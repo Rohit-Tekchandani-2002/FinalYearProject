@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Google Sheets API Example</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+	<table>
+		<thead>
+			<tr>
+				<th>Date</th>
+				<th>Time</th>
+				<th>Name</th>
+			</tr>
+		</thead>
+		<tbody id="data">
+		</tbody>
+	</table>
+
+	<script>
+		// Replace YOUR_API_KEY with your actual API key
+		var apiKey = 'AIzaSyCfbzY01KEXE3ZjdQZXM90kSRsOBXuUj9A';
+
+		// Replace SPREADSHEET_ID with your actual Spreadsheet ID
+		var spreadsheetId = '13D8KSshzu-n_PvnucBlsGrjzlsy6Nxa9PgSI1gQy1fc';
+
+		// Replace SHEET_NAME with the name of your actual sheet
+		var sheetName = 'Sheet1';
+
+		function updateTable() {
+			// URL for retrieving data from the Google Sheets API
+			var url = 'https://sheets.googleapis.com/v4/spreadsheets/' + spreadsheetId + '/values/' + sheetName + '?key=' + apiKey;
+
+			// Use jQuery to retrieve data from Google Sheets API and display it on the HTML page
+			$.get(url, function(data) {
+				var rows = data.values;
+				var html = '';
+
+				for (var i = 0; i < rows.length; i++) {
+					html += '<tr>';
+					html += '<td>' + rows[i][0] + '</td>';
+					html += '<td>' + rows[i][1] + '</td>';
+					html += '<td>' + rows[i][2] + '</td>';
+					html += '</tr>';
+				}
+
+				$('#data').html(html);
+			});
+		}
+        // Call the updateTable function every 1 seconds
+		setInterval(updateTable, 1000);
+	</script>
+</body>
+</html>
