@@ -1,0 +1,49 @@
+1)10.1109/ISECon.2019.8881998
+
+F. Alassery, “A Smart Classroom of Wireless Sensor Networks for Students Time Attendance System,” 2019 IEEE Integrated STEM Education Conference (ISEC). IEEE, Mar. 2019. doi: 10.1109/isecon.2019.8881998.
+
+2)10.1109/ICMT.2011.6002032
+
+
+Aamir Nizam Ansari, A. Navada, S. Agarwal, S. Patil, and B. A. Sonkamble, “Automation of attendance system using RFID, biometrics, GSM Modem with .Net framework,” 2011 International Conference on Multimedia Technology. IEEE, Jul. 2011. doi: 10.1109/icmt.2011.6002032.
+
+3)10.1109/LISAT.2019.8817339 
+
+
+S. N. Shah and A. Abuzneid, “IoT Based Smart Attendance System (SAS) Using RFID,” 2019 IEEE Long Island Systems, Applications and Technology Conference (LISAT). IEEE, May 2019. doi: 10.1109/lisat.2019.8817339.
+
+4)10.1109/ICET.2006.335928 
+
+
+A. Qaiser and S. Khan, “Automation of Time and Attendance using RFID Systems,” 2006 International Conference on Emerging Technologies. IEEE, 2006. doi: 10.1109/icet.2006.335928.
+
+5)10.1109/GET.2016.7916851 
+
+
+T. Sharma and S. L. Aarthy, “An automatic attendance monitoring system using RFID and IOT using Cloud,” 2016 Online International Conference on Green Engineering and Technologies (IC-GET). IEEE, Nov. 2016. doi: 10.1109/get.2016.7916851.
+
+6)10.1109/ICITSI.2017.8267975
+
+
+W. Muhamad, N. B. Kurniawan, Suhardi, and S. Yazid, “Smart campus features, technologies, and applications: A systematic literature review,” 2017 International Conference on Information Technology Systems and Innovation (ICITSI). IEEE, Oct. 2017. doi: 10.1109/icitsi.2017.8267975.
+
+7)10.1109/ICCES45898.2019.9002030
+
+
+D. Devi, A. Devi, and V. Piriyyadarisani, “IoT Based Automatic Attendance System,” 2019 International Conference on Communication and Electronics Systems (ICCES). IEEE, Jul. 2019. doi: 10.1109/icces45898.2019.9002030.
+
+8)10.1109/ICAC49085.2019.9103412
+
+
+P. Kovelan, N. Thisenthira, and T. Kartheeswaran, “Automated Attendance Monitoring System Using IoT,” 2019 International Conference on Advancements in Computing (ICAC). IEEE, Dec. 2019. doi: 10.1109/icac49085.2019.9103412.
+
+9)10.1109/CTCEEC.2017.8455099
+
+B. M. Sri Madhu, K. Kanagotagi, and Devansh, “IoT based Automatic Attendance Management System,” 2017 International Conference on Current Trends in Computer, Electrical, Electronics and Communication (CTCEEC). IEEE, Sep. 2017. doi: 10.1109/ctceec.2017.8455099.
+
+10)10.1109/TENCON.2019.8929616
+
+
+G. Sittampalam and N. Ratnarajah, “SAMS: An IoT Solution for Attendance Management in Universities,” TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON). IEEE, Oct. 2019. doi: 10.1109/tencon.2019.8929616.
+
+

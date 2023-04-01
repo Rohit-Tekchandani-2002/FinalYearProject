@@ -1,0 +1,9 @@
+URL
+https://script.google.com/macros/s/AKfycbzgIE2jGvycthSpdMZH_AXbsurXnzNCQfBz1W29QujssAeBNH89IRxaWbrNSoHIRAH3ww/exec
+
+Deployment ID
+
+AKfycbzgIE2jGvycthSpdMZH_AXbsurXnzNCQfBz1W29QujssAeBNH89IRxaWbrNSoHIRAH3ww
+
+Excel link
+https://docs.google.com/spreadsheets/d/13D8KSshzu-n_PvnucBlsGrjzlsy6Nxa9PgSI1gQy1fc/edit#gid=0
